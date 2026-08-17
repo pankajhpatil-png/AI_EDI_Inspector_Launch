@@ -14,7 +14,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
             AI EDI Inspector
           </span>
           <span className="text-sm font-semibold" style={{ color: "var(--ink)" }}>
-            X12 Validation
+            X12 + EDIFACT Validation
           </span>
         </div>
         <div className="flex items-center gap-2">
