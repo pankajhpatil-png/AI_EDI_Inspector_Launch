@@ -5,7 +5,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "AI EDI Inspector",
-  description: "AI-powered ANSI X12 EDI validation, error explanation, and analytics.",
+  description: "AI-powered ANSI X12 and EDIFACT EDI validation, error explanation, and analytics.",
 };
 
 const THEME_INIT_SCRIPT = `

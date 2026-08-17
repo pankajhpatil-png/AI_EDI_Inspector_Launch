@@ -42,8 +42,8 @@ export default function DashboardPage() {
           Dashboard
         </h1>
         <p className="mt-1 text-sm" style={{ color: "var(--ink-muted)" }}>
-          Structural + AI-assisted validation for ANSI X12 EDI — commercial supply-chain and HIPAA healthcare
-          transaction sets.
+          Structural + AI-assisted validation for ANSI X12 and EDIFACT EDI — commercial supply-chain, HIPAA
+          healthcare, and EDIFACT message types.
         </p>
       </div>
 
